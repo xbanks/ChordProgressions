@@ -1,0 +1,7 @@
+CEG
+DFA
+EGB
+FAC
+GBD
+ACE
+BDF
